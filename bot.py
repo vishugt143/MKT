@@ -66,7 +66,7 @@ async def approve(_, m: Message):
         try:
             await app.send_message(
                 user.id,
-                f"👋 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 {user.first_name}\n\n"
+                f"👋 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 {user.first_name}\n\n🥀 Aapka join request approve ho gaya hai.\n\n⚡️ Important info niche aa gayi hai 👇"
             )
         except Exception as e:
             # can't DM user — ignore silently or log
