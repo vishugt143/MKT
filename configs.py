@@ -20,7 +20,7 @@ class Config:
     POSTS = [
         "https://t.me/forward_hack_lnx/153",
         "https://t.me/forward_hack_lnx/154",
-        https://t.me/forward_hack_lnx/155""
+        "https://t.me/forward_hack_lnx/155"
     ]
 
     # 🚫 ILLEGAL WORDS (BOT SIDE FILTER)
